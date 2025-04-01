@@ -97,10 +97,14 @@ plt.legend()
 plt.show()
 ```
 
+![Training](trainingAccandloss.png)
 ---
 
 ## Results
 The model achieves approximately **70% accuracy** on the CIFAR-10 test set after training for ten epochs.
+
+---
+![predict](PREDICT.png)
 
 ---
 
